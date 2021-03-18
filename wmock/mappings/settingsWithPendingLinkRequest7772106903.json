@@ -4,7 +4,7 @@
   "requiredScenarioState": "PendingStatus",
   "request": {
     "method": "GET",
-    "url": "/telco/v2/7772103488/settings"
+    "url": "/settings"
 
   },
 
