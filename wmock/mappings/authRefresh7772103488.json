@@ -1,0 +1,18 @@
+{
+    "request":{
+      "method": "POST",
+      "url":"/auth/refresh",
+      "bodyPatterns" : [{
+        "equalToJson" :
+        {
+          "account" : "7772103488",
+          "refreshToken" :
+          "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJjNTVkMWMwOC1hM2M5LTQyMjgtOWFlZC04ZWRlZWU5MTkwYjQifQ.eyJpYXQiOjE2MTM3MTQ3NzAsImp0aSI6ImM5MTc2ZGJiLTc4OGItNGM4Yi1hYTU0LWVhZjlhYzFkZjY0MyIsImlzcyI6Imh0dHA6Ly8xNzIuMjguNS44Nzo4MzkyL2F1dGgvcmVhbG1zL215LWJlZWxpbmUiLCJhdWQiOiJodHRwOi8vMTcyLjI4LjUuODc6ODM5Mi9hdXRoL3JlYWxtcy9teS1iZWVsaW5lIiwic3ViIjoiYTI2MWZlYjYtZjgxYy00ZTQwLTgwMjktMWM5MzllMWRmZWVjIiwidHlwIjoiT2ZmbGluZSIsImF6cCI6Im15LWJlZWxpbmUtY2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6IjhlMGQ2OGIyLThhMzEtNDFiMi1hNzM2LTlhMWRkMTQwNDVkNSIsInNjb3BlIjoiZnVsbF9hY2Nlc3Mgb2ZmbGluZV9hY2Nlc3MgZW1haWwgcHJvZmlsZSJ9._CnKR1uMV61eKMzrxEz9qk73_oGpj9SRFbiYrNP6Vso"
+        }
+      }]
+    },
+
+    "response":{
+        "status": 200
+}
+}

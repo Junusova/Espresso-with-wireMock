@@ -1,0 +1,14 @@
+{
+  "request":{
+    "method": "GET",
+    "url":"/auth/7072000992/support/check"
+  },
+
+  "response":{
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "../__files/userSupportResponseBody7072000992.json"
+  }
+}

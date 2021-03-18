@@ -1,0 +1,14 @@
+{
+  "request":{
+    "method": "GET",
+    "url":"/link/7772103488/accounts"
+  },
+
+  "response":{
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "../__files/linkedAccounts7772103488Response.json"
+  }
+}

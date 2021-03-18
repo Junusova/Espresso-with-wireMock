@@ -1,0 +1,26 @@
+[
+  {
+    "type": "mobile",
+    "name": "Мобильные номера",
+    "accounts": [
+      {
+        "userType": "mobile",
+        "group": "mobile",
+        "state": "LINKED",
+        "current": true,
+        "mainInGroup": false,
+        "account": "7772103488",
+        "name": "Куц Олег Тестовый"
+      },
+      {
+        "userType": "mobile",
+        "group": "mobile",
+        "state": "LINKED",
+        "current": false,
+        "mainInGroup": null,
+        "account": "7772106903",
+        "name": "Мобильный номер"
+      }
+    ]
+  }
+]

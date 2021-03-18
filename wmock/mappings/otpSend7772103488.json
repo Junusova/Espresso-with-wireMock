@@ -1,0 +1,10 @@
+{
+    "request":{
+        "method": "GET",
+        "url":"/auth/7772103488/otp/send"
+    },
+
+    "response":{
+        "status": 200
+    }
+}

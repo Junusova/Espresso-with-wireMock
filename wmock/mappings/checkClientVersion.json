@@ -1,0 +1,10 @@
+{
+    "request":{
+        "method": "GET",
+        "url":"/telco/client/version/check"
+    },
+
+    "response":{
+        "status": 200
+    }
+}

@@ -1,0 +1,19 @@
+
+{
+  "scenarioName": "Account_Status_Is_Pending",
+  "requiredScenarioState": "Started",
+  "newScenarioState": "PendingStatus",
+
+  "request":{
+    "method": "GET",
+    "url":"/telco/v2/7772103488/settings"
+},
+
+  "response":{
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "../__files/settings7772103488ResponseBody.json"
+  }
+}

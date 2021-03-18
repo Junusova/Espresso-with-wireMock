@@ -1,0 +1,13 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/telco/v2/7772103488/accounts/7772103488/type"
+	},
+	"response": {
+		"status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+		"bodyFileName": "../__files/accountsTypeResponseBody7772103488.json"
+	}
+}

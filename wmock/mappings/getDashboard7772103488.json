@@ -1,0 +1,14 @@
+{
+    "request":{
+        "method": "GET",
+        "url":"/telco/v2/7772103488/accounts/7772103488/dashboard?blsChannelId=app"
+    },
+
+    "response":{
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "../__files/dashboardInfo7772103488ResponseBody.json"
+    }
+}

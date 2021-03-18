@@ -1,0 +1,10 @@
+{
+    "request":{
+        "method": "POST",
+        "url":"/api/v1/7772103488/accounts/7772103488/analytics/phone-data"
+    },
+
+    "response":{
+        "status": 200
+    }
+}

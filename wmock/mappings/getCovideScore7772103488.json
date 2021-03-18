@@ -1,0 +1,14 @@
+{
+  "request":{
+    "method": "GET",
+    "url":"/api/v1/7772103488/accounts/7772103488/covid/score"
+  },
+
+  "response":{
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "../__files/getCovidScoreResponse7772103488.json"
+  }
+}

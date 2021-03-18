@@ -1,0 +1,14 @@
+{
+    "request":{
+        "method": "POST",
+        "url":"/link/7772103488/accounts/7772106903/send",
+        "bodyPatterns" : [{
+            "equalToJson" :
+            {"name":""}
+        }]
+    },
+
+    "response":{
+        "status": 200
+}
+}

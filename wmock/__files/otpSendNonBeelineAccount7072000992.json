@@ -1,0 +1,5 @@
+{
+  "message": "Ой, у тебя не Beeline…",
+  "localizationKey": "response.not_beeline_user",
+  "code": "FORBIDDEN"
+}
