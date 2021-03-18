@@ -1,7 +1,7 @@
 {
   "request":{
     "method": "GET",
-    "url":"/auth/7072000992/otp/send"
+    "url":"/auth/5555555555/otp/send"
   },
 
   "response":{
@@ -9,6 +9,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "../__files/otpSendNonBeelineAccount7072000992.json"
+    "bodyFileName": "../__files/otpSendNonBeelineAccount.json"
   }
 }
