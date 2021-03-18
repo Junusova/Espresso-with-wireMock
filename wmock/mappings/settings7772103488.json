@@ -6,7 +6,7 @@
 
   "request":{
     "method": "GET",
-    "url":"/telco/v2/7772103488/settings"
+    "url":"/v2/settings"
 },
 
   "response":{
@@ -14,6 +14,6 @@
     "headers": {
       "Content-Type": "application/json"
     },
-    "bodyFileName": "../__files/settings7772103488ResponseBody.json"
+    "bodyFileName": "../__files/settingsResponseBody.json"
   }
 }
