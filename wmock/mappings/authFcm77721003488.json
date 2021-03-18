@@ -1,13 +1,12 @@
 {
     "request":{
         "method": "POST",
-        "url":"/telco/fcm",
+        "url":"test",
         "bodyPatterns" : [{
             "equalToJson" :
-            {  "account" : "7772103488",
-                "fcmId" :
-                "fH33m9ChRKmXzh7MdTTRRx:APA91bHcWAjDfDlnT4-SFylSLhDUD6axAkGzsufQA_SJx1eSl2Zx8b5zmsFu8kn0qsiqq_o5vZ6RbQiL_ZSczVztDLe36t1HTGFVhqiUxNK-9jYjQ3GadmhiQ5H-jwrTbAAbAmCw-w50",
-                "isSystemPushAlowed" : true
+            {  "account" : "5555555",
+                "fcm" :"test"
+               
             }
         }]
     },
